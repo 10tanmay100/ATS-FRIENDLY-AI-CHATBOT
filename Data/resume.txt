@@ -1,0 +1,98 @@
+Tanmay Chakraborty    
+   
+Kolkata | +91 -9062860379 |DOB: 18/08/2001   
+                                                   chakrabortytanmay326@gmail.com | Linke dIn| Github |   
+Career Objective:    
+Seeking a position in an organization, which would enable me to combine my technical expertise with 
+analytical skills to aid in meeting company goal.   
+Skills & Knowledge:    
+Statistical Methods:    Missing values and outliers, Univariate Analysis, Bi -Variate Analysis,   
+Sampling, Cross Validation, Hypothesis Testing   
+Predictive Analysis:    Regression, Machine Learning, Data Engineering or Feature Engineering -   
+Dimensionality Reduction, DecisionTree  , Boosting Techniques  
+Classification:    Decision Trees, SVM, Logistic Regression, Naïve Bayes, Random Forest   
+Deep Learning:    Perceptron, Multi Layer Perceptron, Image Classification (VGG16, VGG19,   
+Resnet etc), Object Detection(YOLO, R -CNN) , NLP(Natural Language 
+Processing), Word2Vec, Transformers, Large Language Models(GPT, Llama 
+Variants), Generative AI    
+Unsupervised Learning:    K-Means Clustering, Hierarchical Clustering, DBScan   
+Tools:    Python, AWS Sagemaker, AWS Lambda ,  Api Gateway , EC2 , AWS Fargate,   
+Jupyter Notebook. MLOPS, Docker  , Langchain, RAG(Different Rag 
+Techniques), Agents  
+Experience:    
+PwC India (Third Party Hiring by FirstMeridian Private Limited), Machine Learning 
+Engineer    
+May 2024 – Present   
+RAG Chatbot for Healthcare Client  
+Objective: Develop solutions for Healthcare Client. We need to take documents from them related to 
+medical things and we had to make sure that all such complex scenarios such as table, diagrams, 
+flowcharts understanding must get captured.  
+Resolution: Implemented Advance RAG Techniques to build the complete chatbot.   
+Skills & Tools: Generative AI, Llama Models, Langchain  
+Table Comparison Tool using Python and ML  
+Objective: Worked for PWC’s onsite Healthcare client for building some solutions using Python and 
+Machine Learning.  I implemented an internal tool from scratch using python where they had different 
+kinds of tables and they wanted to match columns based on column nam es as well as values in that 
+specific columns as there are many cases where detecting only columns could not help us  
+Resolution: Implemented different similarity techniques as well as hypothesis testing. Implemented 
+Regular Expressions also for some situations as well as , used BERT models to get some data patterns too.  
+Skills & Tools: Statistical Methods, NLP , Machine Learning  
+Advanced Driver Assistant System (ADAS)    Objective: Develop solutions for vehicular perception through inertial sensor signals. I need to predict few 
+features include transient events in the form of anomalies and obstacles, such as potholes, cracks, speed 
+bumps, etc.; and persistent events, such as surface type, conservation condition, and the road surface 
+quality. data were produced with contextual variations including three different vehicles, driven by three 
+different drivers, traveling through three different environments. To recognize and cla ssify the vehicular 
+perception pattern   
+Resolution: Classification algorithm used I have tried few such as Naïve Bayes, Random Forest as well as 
+Logistic Regression. I tuned each and every one and I got Random Forest as better one with 89% f1 score 
+value. Dataset was imbalanced so I applied SMOTE to handle such issues. I have incorporated GitHub 
+actions for Continuous Integration and Delivery and Deployment.   
+Skills & Tools: EDA and Classification algorithms. MLFLOW for tracking the model and artifacts, Docker for 
+containerize codes.   
+Sunix AI, Machine Learning Engineer    
+October 2023 – May 2024   
+Object Detection and Tracking System for Sport Client  
+Objective: Develop a PoC using computer vision where we will have to track player whoever wil be with 
+the football and we need to detect what event occurs on what time. Events were as follows Shot, 
+Dribbling, Pass, Tackle. Provided 100+GB of High Quality Football mat ch video.  Helping annotators to do 
+the annotation in faster manner.  
+Resolution: Implemented YOLOv8 model for detection as well as for Tracking. We had to do different 
+image preprocessing using Opencv to make that detection accurate. I achieved 75% MAPE  
+Skills & Tools: Computer Vision, YOLO, Opencv  
+Rapyder Cloud Solutions ,  ML Engineer    
+January 2023 – September 2023   
+• End to End HealthCare Analytics(AWS Sagemaker , Snowflake)   
+Worked for a Healthcare client, expected from us to build a complete MLOPS pipeline where they 
+can do their predictions in real time. Data source was fetched and some basic feature engineering 
+task was done by snowflake and after that I have implemented th e Sagemaker pipeline to build 
+the mlops lifecycle along with the model retraining approach.   
+• End to End Object Detection Solution (Aws Sagemaker, Resnet)   
+Data Annotation client came to us and I have built an end to end object detection automated 
+workflow using AWS built -in Resnet object detector algorithm.   
+• Serverless Deployment Using AWS Fargate POC    
+I have built a solution using machine learning and I deployed that on AWS Fargate to achieve 
+serverless deployment along with load balancer   
+• End to End MLOPS Project for Loan Approval System (RDS, AWS Sagemaker)    
+Worked on a machine learning POC where we have built an end to end pipeline in AWS   
+Sagemaker where we had to build an automated loan approval system where from data collection 
+till deployment was completely automated. I have incorporated RDS as data storage and from 
+there I have built the solution. I have added model retraining approach where we can add our 
+own hyperparameters and we can retrain and deployment will happen automatically based on the 
+accuracy metrics.   
+       
+ 
+Education:    
+Degree   Institute   Year of 
+Passing   CGPA/%   
+PGP - Machine Learning   Great Lakes Institute of Management, The   
+University of Texas at Austin   2024   90%   
+B. SC – Mathematics   West Bengal State University   2022   80%   
+12th – WBCHSE   Agarpara Mahajati Vidhyapith, Agarpara   2019   65%   
+High School – WBBSE   Ushumpur Adarsha Uchcha Vidyalaya,   
+Agarpara   2017   64%   
+Certification and Recognition:    
+• Data Scienc e Usin g Artific ial Intelligenc e and Machin e Learnin g , Deep Learnin g and Tableau,  
+Ivy Professional School    
+• AWS Certified ML Specialist , Amazon Web Services  
+• AWS Clou d Practitio ner Amazon Web Services   
+   
