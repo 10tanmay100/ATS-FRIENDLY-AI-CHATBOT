@@ -12,7 +12,7 @@ groq_api_key=os.getenv("groq_api_key")
 
 def resume_checkup(resume_summary,jd_summary):
     template = """
-    You are a skilled ATS(Applicany Tracking System) scanner with a deep understanding of data science and other non IT fields and ATS Functionality. Your task is to evaluate the resume summary:{resume_summary} against the provided job description summary:{jd_summary}. Give me the percentage of match if the resume matches with the job description. First output should come as percentage and then keywords missing and final thought about the candidate."""
+    You are a skilled ATS(Applicany Tracking System) scanner with a deep understanding of data science and other non IT fields and ATS Functionality. Your task is to evaluate the resume summary:{resume_summary} against the provided job description summary:{jd_summary}. Give me the percentage of match if the resume matches with the job description. First output should come as percentage and then keywords missing and final thought about the candidate.You do check skill keywords with the job description and the resume and experience keyword in the job description and resume and then generate proper stable response."""
     prompt = PromptTemplate(input_variables=["resume_summary","jd_summary"],template=template)
 
     llm=ChatGroq(model="llama-3.1-8b-instant")
