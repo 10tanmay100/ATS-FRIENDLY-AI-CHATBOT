@@ -9,7 +9,7 @@ load_dotenv()
 
 groq_api_key=os.getenv("groq_api_key")
 def summarize_jd(input_path):
-    loader=TextLoader(input_path)
+    loader=TextLoader(input_path,encoding="utf-8")
     documents=loader.load()
 
 
@@ -28,7 +28,7 @@ def summarize_jd(input_path):
 
 
 def summarize_resume(input_path):
-    loader=TextLoader(input_path)
+    loader=TextLoader(input_path,encoding="utf-8")
     documents=loader.load()
 
 
